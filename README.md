@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm currently studying **Software Development** at [Universidad Tecnológica de Pereira](https://www.utp.edu.co/)
-- 🤖 I'm exploring **AI topics** like LLMs, RAG, Fine-Tuning, Vector Stores and tools like LangChain, MCP, Gradio and Azure  
+- 🤖 I'm exploring **AI topics** like LLMs, RAG, Fine-Tuning, Vector Stores and tools like LangChain, MCP, Gradio 
 - 🛠️ I love experimenting with projects that help me learn by doing  
 - 🌟 I'm passionate about tech that creates real impact in the world
 - ☁️ I'm exploring **AWS** Bedrock, SageMaker, and all ML models (Polly, Kendra, Lex, Textract, Rekognition, Comprehend, etc)
