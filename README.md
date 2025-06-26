@@ -20,7 +20,7 @@
 - 🤖 I'm exploring **AI topics** like LLMs, RAG, Fine-Tuning, Vector Stores and tools like LangChain, MCP, Gradio 
 - 🛠️ I love experimenting with projects that help me learn by doing  
 - 🌟 I'm passionate about tech that creates real impact in the world
-- ☁️ I'm exploring **AWS** Bedrock, SageMaker, and all ML models (Polly, Kendra, Lex, Textract, Rekognition, Comprehend, etc)
+- ☁️ I'm exploring **AWS** Bedrock and SageMaker
   
 <br>
 <p align="center">
