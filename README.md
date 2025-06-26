@@ -17,9 +17,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm currently studying **Software Development** at [Universidad Tecnológica de Pereira](https://www.utp.edu.co/)
-- 🤖 I'm exploring **AI topics** like LLMs, RAG, Vector Stores and tools like LangChain, Gradio and Azure  
+- 🤖 I'm exploring **AI topics** like LLMs, RAG, Fine-Tuning, Vector Stores and tools like LangChain, MCP, Gradio and Azure  
 - 🛠️ I love experimenting with projects that help me learn by doing  
 - 🌟 I'm passionate about tech that creates real impact in the world
+- ☁️ I'm exploring **AWS** Bedrock, SageMaker, and all ML models (Polly, Kendra, Lex, Textract, Rekognition, Comprehend, etc)
   
 <br>
 <p align="center">
@@ -44,7 +45,6 @@
 ![pgmpy](https://img.shields.io/badge/pgmpy-003B57?style=for-the-badge&logo=python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-3C78D8?style=for-the-badge&logo=gradio&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🧠 Vector Stores  
@@ -55,6 +55,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 ## 📚 Learning Journey  
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
