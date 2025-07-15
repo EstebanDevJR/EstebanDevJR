@@ -42,7 +42,6 @@
 
 ### 📚 Libraries & Tools I'm Learning  
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=white)
-![pgmpy](https://img.shields.io/badge/pgmpy-003B57?style=for-the-badge&logo=python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-3C78D8?style=for-the-badge&logo=gradio&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
