@@ -62,6 +62,7 @@
 ## 📚 Certifications & Education
 
 - 🏅 **Bootcamp 2025 Generative AI, LLM Apps, AI Agents, Cursor AI** (Udemy)
+- 🏅 **LLM Engineering: Master AI, Language Models, and Agents** (Udemy)
 - 🏅 **AWS Certified AI Practitioner (AIF-C01) (Udemy)**
 - 📖 More certifications in Artificial Intelligence and Cloud coming soon!
 - 🎓 **Software Development** – Universidad Tecnológica de Pereira 2023 - 2026
